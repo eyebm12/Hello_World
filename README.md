@@ -1,7 +1,8 @@
 # Hello_World
 My first version control
 
-i happen to follow the tutorial and see if this really helps. I would love to go more further.
+I have changed what has been written on redme-edit
+Is this allowed in Gthub
 
 See
-what happens
+If it works
